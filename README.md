@@ -78,7 +78,7 @@ Este repositório contém minhas soluções para os problemas da plataforma **Be
 
 | Categoria | Problemas Resolvidos |
 |-----------|---------------------|
-| 🟢 Iniciante | 80/334 |
+| 🟢 Iniciante | 87/334 |
 
 ## 🤝 Contribuições
 
