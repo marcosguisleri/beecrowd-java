@@ -6,9 +6,11 @@
 ![Beecrowd](https://img.shields.io/badge/Beecrowd-1E90FF?style=for-the-badge&logo=code&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Em%20Progresso-yellow?style=for-the-badge)
 
-**Minhas soluções para os desafios do Beecrowd, desenvolvidas em Java**
+**Resolução sistemática dos problemas do Beecrowd utilizando Java**
 
-[🏆 Meu Perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1035149) • [📧 Contato](mailto:marcos.guisleri.dev@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/marcosguisleri/)
+[🏆 Perfil no Beecrowd](https://judge.beecrowd.com/pt/profile/1035149) •
+[💼 LinkedIn](https://www.linkedin.com/in/marcosguisleri/) •
+[📧 Contato](mailto:marcos.guisleri.dev@gmail.com)
 
 </div>
 
@@ -16,15 +18,31 @@
 
 ## 📖 Sobre o Projeto
 
-Este repositório contém minhas soluções para os problemas da plataforma **Beecrowd** (antigo URI Online Judge), desenvolvidas em **Java**. O objetivo é aprimorar constantemente minhas habilidades em lógica de programação e domínio da linguagem.
+Este repositório reúne minhas soluções para os desafios da plataforma **Beecrowd** (antigo URI Online Judge), desenvolvidas em **Java**.
 
-## ⭐ Meu Progresso
+O objetivo é fortalecer:
 
-🎯 **Acompanhe minha evolução:**
-- 👉 [Perfil oficial no Beecrowd](https://judge.beecrowd.com/pt/profile/1035149)
-- 📊 Submissões aceitas, ranking e histórico completo disponíveis na plataforma
+- 🧠 Lógica de programação
+- ⚙️ Domínio da linguagem Java
+- 🎯 Precisão na implementação
+- 📚 Disciplina e consistência em resolução de problemas
 
-## 📂 Estrutura do Repositório
+---
+
+## 🎯 Meta Atual
+
+📌 **Concluir os 334 problemas da categoria Iniciante**
+
+Progresso atual:
+
+| Categoria | Resolvidos |
+|-----------|------------|
+| 🟢 Iniciante | 110 / 334 |
+
+---
+
+## 📂 Estrutura do Projeto
+
 ```
 📦 beecrowd-java
  ┣ 📂 src/
@@ -33,79 +51,68 @@ Este repositório contém minhas soluções para os problemas da plataforma **Be
  ┃ ┃ ┣ 📜 Bee1002.java
  ┃ ┃ ┗ 📜 ...
  ┃ ┣ 📂 ad-hoc/
- ┃ ┃ ┗ 📜 ...
  ┃ ┣ 📂 strings/
- ┃ ┃ ┗ 📜 ...
  ┃ ┗ 📂 matematica/
- ┃   ┗ 📜 ...
  ┗ 📜 README.md
 ```
 
 ### 🗂️ Organização
 
-- **Um arquivo por problema** - Cada solução possui sua própria classe
-- **Nomenclatura padronizada**: `Bee + ID do problema` (ex: `Bee1001.java`)
-- **Categorias**: Seguindo a estrutura oficial do Beecrowd (Iniciante, Ad-Hoc, Strings, Matemática, etc.)
+- Um arquivo por problema
+- Nomenclatura padronizada: `Bee + ID` (ex: `Bee1001.java`)
+- Separação por categorias oficiais da plataforma
 
-## ⚠️ Importante para Submissão
+---
 
-> **Atenção:** As classes neste repositório utilizam nomes descritivos (`Bee1001`, `Bee1002`, etc.) para melhor organização.
-> 
-> Para submeter no Beecrowd, você **deve renomear** a classe principal para `Main`:
-> ```java
-> // No repositório
-> public class Bee1001 { ... }
-> 
-> // Para submeter no Beecrowd
-> public class Main { ... }
-> ```
+## 🧠 Abordagem
 
-## 🎯 Objetivos
+As soluções seguem princípios de:
 
-- ✅ Praticar e aprimorar **lógica de programação**
-- ✅ Consolidar conhecimentos em **Java**
-- ✅ Resolver problemas de **diferentes categorias** e níveis de dificuldade
-- ✅ Manter um **histórico organizado** das soluções
-- ✅ **Compartilhar conhecimento** com a comunidade dev
+- Código limpo e legível
+- Organização consistente
+- Atenção rigorosa à formatação de saída
+- Tratamento de casos extremos
+- Uso adequado das APIs do Java
 
-## 🛠️ Tecnologias
+---
+
+## ⚠️ Submissão no Beecrowd
+
+As classes neste repositório possuem nomes descritivos.
+
+Para submissão na plataforma, a classe deve ser renomeada para:
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        ...
+    }
+}
+```
+
+---
+
+## 🛠 Tecnologias
 
 - **Linguagem:** Java
-- **Plataforma:** [Beecrowd](https://www.beecrowd.com.br/)
 - **IDE:** IntelliJ IDEA
+- **Plataforma:** Beecrowd
 
-## 📈 Estatísticas
+---
 
-| Categoria | Problemas Resolvidos |
-|-----------|----------------------|
-| 🟢 Iniciante | 110/334              |
+## 📈 Roadmap
 
-## 🤝 Contribuições
-
-Embora este seja um repositório pessoal de estudos, sugestões de melhorias nas soluções são sempre bem-vindas! Sinta-se à vontade para:
-
-- 🐛 Reportar bugs ou soluções incorretas
-- 💡 Sugerir otimizações
-- 📖 Melhorar a documentação
-
-## 📫 Contato
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.guisleri.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosguisleri/)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-1E90FF?style=for-the-badge&logo=code&logoColor=white)](https://judge.beecrowd.com/pt/profile/1035149)
-
-</div>
+- [x] 100 problemas resolvidos
+- [ ] 200 problemas resolvidos
+- [ ] Finalizar nível Iniciante (334)
+- [ ] Iniciar categoria Ad-Hoc
 
 ---
 
 <div align="center">
 
-**Desenvolvido com ☕ e muita dedicação**
+**Disciplina diária > motivação ocasional**
 
-⭐ Se este repositório te ajudou de alguma forma, considere deixar uma estrela!
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.beecrowd-java)
+⭐ Se este repositório for útil, considere deixar uma estrela.
 
 </div>
