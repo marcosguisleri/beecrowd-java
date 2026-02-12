@@ -27,6 +27,7 @@ public class Bee1541 {
             int lado = (int) Math.sqrt(areaTerreno);
 
             System.out.println(lado);
+
         }
 
     }
