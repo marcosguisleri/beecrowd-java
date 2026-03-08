@@ -18,7 +18,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este repositório reúne minhas soluções para os desafios da plataforma **Beecrowd** (antigo URI Online Judge), desenvolvidas em **Java**.
+Este repositório reúne as minhas soluções para os desafios da plataforma **Beecrowd** (antigo URI Online Judge), desenvolvidas em **Java**.
 
 O objetivo é fortalecer:
 
@@ -37,7 +37,7 @@ Progresso atual:
 
 | Categoria | Resolvidos |
 |-----------|------------|
-| 🟢 Iniciante | 130 / 334  |
+| 🟢 Iniciante | 143 / 334  |
 
 ---
 

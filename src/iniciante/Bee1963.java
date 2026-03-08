@@ -9,10 +9,12 @@ public class Bee1963 {
 
         Scanner input = new Scanner(System.in);
 
-        double a = input.nextInt();
-        double b = input.nextInt();
+        double a = input.nextDouble();
+        double b = input.nextDouble();
 
-        System.out.printf("%.2f%%", ((b - a) / 100) * a);
+        double porcentagem = (b - a) / a * 100;
+
+        System.out.printf("%.2f%%\n", porcentagem);
 
     }
 
