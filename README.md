@@ -37,7 +37,7 @@ Progresso atual:
 
 | Categoria | Resolvidos |
 |-----------|------------|
-| 🟢 Iniciante | 153 / 334   |
+| 🟢 Iniciante | 159 / 334  |
 
 ---
 
